@@ -1,0 +1,38 @@
+[35mbest.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mbest.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mbest.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mjammer.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mjammer.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mjammer.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mjammer.py[m[36m:[m    # ---- F[1;31mAC[mE RECOGNITION ----
+[35mkeshav.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mkeshav.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mkeshav.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mkeshav.py[m[36m:[m# ================= ORIGINAL GITHUB F[1;31mAC[mE (UNCHANGED) =================
+[35mkeshav.py[m[36m:[m# ================= NEW LOCAL F[1;31mAC[mE (Aadarsh Pandey) ==================
+[35mmajor.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mmajor.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+Binary file [35mmodel.h5[m matches
+[35mpath.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mpath.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mpath.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mreal2.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mreal2.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mreal2.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mreal2.py[m[36m:[m    F[1;31mAC[mE_SKIP = 10
+[35mreall.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mreall.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mreall.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35msecurity.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35msecurity.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35msecurity.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35msecurity.py[m[36m:[m# ------------------- F[1;31mAC[mE LOADING -------------------
+[35msecurity.py[m[36m:[m        # ---------------- F[1;31mAC[mE ----------------
+[35msecurity.py[m[36m:[m                        cv2.putText(display_frame,"VIP BRE[1;31mAC[mH!",
+[35mstatic.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mstatic.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mstatic.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mtesting.py[m[36m:[mTWILIO_[1;31mAC[mCOUNT_SID = "**********************"
+[35mtesting.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+[35mtesting.py[m[36m:[m        client = Client(TWILIO_[1;31mAC[mCOUNT_SID, TWILIO_AUTH_TOKEN)
+Binary file [35myolov8n.pt[m matches
