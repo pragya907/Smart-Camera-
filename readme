@@ -1,0 +1,208 @@
+# Smart Camera Detection System
+
+## 📌 Overview
+
+The Smart Camera Detection System is an AI-powered surveillance solution designed to move beyond traditional CCTV recording. Instead of merely capturing footage, the system actively detects suspicious activities and anomalies in real time, alerts nearby individuals, and automatically notifies registered emergency contacts through SMS and voice calls.
+
+This project combines Computer Vision, Machine Learning, and Automated Alerting Systems to create a proactive security solution suitable for homes, offices, educational institutions, and public spaces.
+
+---
+
+## 🎯 Problem Statement
+
+Traditional CCTV cameras record incidents but do not prevent them. Security personnel often discover threats only after reviewing footage.
+
+This project addresses that limitation by:
+
+* Detecting suspicious activities in real time.
+* Generating instant alerts.
+* Sending emergency notifications automatically.
+* Improving response time during critical situations.
+
+---
+
+## ✨ Features
+
+### 🔍 Real-Time Monitoring
+
+* Continuous video stream processing.
+* Live surveillance through connected cameras.
+
+### 🧠 AI-Based Anomaly Detection
+
+* Detects unusual or suspicious behavior.
+* Identifies potential threats in real time.
+
+### 👤 Face Recognition
+
+* Recognizes authorized and registered individuals.
+* Helps identify unknown persons.
+
+### 🚨 Instant Alert System
+
+* Triggers alarms upon detecting anomalies.
+* Provides immediate local notifications.
+
+### 📱 SMS Notifications
+
+* Sends emergency SMS alerts to registered contacts.
+
+### 📞 Automated Calling
+
+* Places automated emergency calls during critical events.
+
+### 📊 Event Logging
+
+* Stores incident information for future analysis.
+
+### 💾 Evidence Storage
+
+* Captures and saves images/videos of detected incidents.
+
+---
+
+## 🏗️ System Architecture
+
+1. Camera captures live video feed.
+2. OpenCV processes incoming frames.
+3. AI model analyzes activity and behavior.
+4. Suspicious events are detected.
+5. Alert module is triggered.
+6. SMS and call notifications are sent.
+7. Incident data is stored for records.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Language
+
+* Python
+
+### Computer Vision
+
+* OpenCV
+
+### Machine Learning / AI
+
+* Face Recognition
+* Deep Learning Models
+* Anomaly Detection Algorithms
+
+### Communication Services
+
+* Twilio API
+
+### Database
+
+* SQLite / MongoDB
+
+### Other Libraries
+
+* NumPy
+* Pandas
+* imutils
+
+---
+
+## 📂 Project Structure
+
+```text
+Smart-Camera/
+│
+├── best.py
+├── jammer.py
+├── keshav.py
+├── major.py
+├── path.py
+├── static.py
+├── testing.py
+│
+├── assets/
+├── models/
+├── dataset/
+├── screenshots/
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Keshavaay/Smart-Camera-.git
+```
+
+### Navigate to Project
+
+```bash
+cd Smart-Camera-
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Application
+
+```bash
+python major.py
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file:
+
+```env
+TWILIO_ACCOUNT_SID=YOUR_ACCOUNT_SID
+TWILIO_AUTH_TOKEN=YOUR_AUTH_TOKEN
+TWILIO_PHONE_NUMBER=YOUR_TWILIO_NUMBER
+```
+
+Never commit `.env` files or API credentials to GitHub.
+
+---
+
+## 📸 Use Cases
+
+* Home Security
+* Smart Surveillance Systems
+* Educational Institutions
+* Corporate Offices
+* Industrial Monitoring
+* Public Safety Applications
+
+---
+
+## 🚀 Future Enhancements
+
+* Mobile Application Integration
+* Cloud-Based Monitoring Dashboard
+* Multi-Camera Support
+* Weapon Detection
+* Fire & Smoke Detection
+* Intrusion Detection
+* Real-Time Analytics Dashboard
+
+---
+
+## 👨‍💻 Contributors
+
+**Aadarsh Upadhyay (Krishna Das)**
+
+Computer Engineering Student
+Lokmanya Tilak College of Engineering
+
+---
+
+## 📜 License
+
+This project is developed for educational and research purposes.
