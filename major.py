@@ -9,11 +9,11 @@ import os
 # ==================== CONFIG ====================
 # Twilio crede 
 # Alarm sound path
-ALARM_SOUND = r"C:\Users\Aadarsh\Desktop\sound\Alarmss.mp3q"
+ALARM_SOUND = None
 
 # Load model and labels
 MODEL_PATH = "model.h5"
-LABEL_FILE = r"C:\Users\Aadarsh\Desktop\testing\knife.txt"
+LABEL_FILE = "knife.txt"
 
 # ==================== INIT ====================
 pygame.mixer.init()
